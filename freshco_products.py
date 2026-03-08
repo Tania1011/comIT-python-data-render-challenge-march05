@@ -1,3 +1,5 @@
+#created by: @Tania1011
+
 import requests
 
 url = "https://dam.flippenterprise.net/flyerkit/publication/7813184/products?display_type=all&locale=en&access_token=881f0b9feea3693a704952a69b2a037a"
