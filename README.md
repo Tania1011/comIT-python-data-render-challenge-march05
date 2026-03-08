@@ -1,7 +1,6 @@
 # Python Fetching Data and Manipulation Challenge
 
-### Continuing with the past Daisy UI exercise:
-
+### Steps:
  * Use a html file with an empty body tag and the Daisy UI links.
  * Create the html table using a for loop and the data optained from the freshco data.
  * Select a Daisy UI table component of yours
