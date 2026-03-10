@@ -1,6 +1,25 @@
+
+
 # Python Fetching Data and Manipulation Challenge
 
-### Steps:
+# FreshCo Products Table
+
+This project fetches FreshCo flyer products and generates
+an HTML table using Python.
+
+Features:
+- Python API request
+- HTML table generation using loops
+- DaisyUI styling
+- product images
+- edit/delete buttons
+
+Open index.html in a browser.
+
+GitHub Pages:
+https://username.github.io/freshco-products-table/
+
+## Steps:
  * Use a html file with an empty body tag and the Daisy UI links.
  * Create the html table using a for loop and the data optained from the freshco data.
  * Select a Daisy UI table component of yours
@@ -14,3 +33,5 @@
  * Check the `pandas...html` files in a browser as ugly reference of what should obtain, use the Daisy UI theme of your choice.
  * Deliver the python file in a new repo and provide a link to github pages, don't forget the readme.
  * Feel free to use more Daisy UI elements.
+
+
